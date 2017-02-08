@@ -1,0 +1,6 @@
+name = "DBIx-Class-LogicalDelete"
+# badges = ["travis"]
+authority="cpan:KEITHBRO"
+
+module_maker="ModuleBuildTiny"
+
